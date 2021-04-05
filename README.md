@@ -2,7 +2,7 @@
 - [SourceJump WR Menu](https://github.com/rtldg/wrsj)
 - [mpbhops but working](https://github.com/rtldg/mpbhops_but_working)
 - [sm_closestpos](https://github.com/rtldg/sm_closestpos) - C++ Sourcemod extension that can be used with bhoptimer to find the closest replay position more efficiently.
-  - `sm_closestpos(0.000006s) -- sourcpawn(0.011590s)`
+  - `sm_closestpos(0.000006s) -- sourcepawn(0.011590s)`
 - [rtldg/bhoptimer](https://github.com/rtldg/bhoptimer) --- [shavitush/bhoptimer](https://github.com/shavitush/bhoptimer)
 - [a list of some things a bhop server should have installed](https://github.com/rtldg/bhop-server-stuff)
 - [Unreal style for shavit's bhoptimer](https://github.com/rtldg/unrealphys)
