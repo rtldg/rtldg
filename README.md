@@ -9,7 +9,7 @@
 - [wip srcwr thing](https://github.com/rtldg/srcwr)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
 - [some Stripper: Source map configs](https://github.com/rtldg/stripper_source_configs)
-- [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_tf2centeredrockets <0|1> to shoot rockets from the center (like The Original) for any rocket launcher.
+- [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
 
 <!--
 **rtldg/rtldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
