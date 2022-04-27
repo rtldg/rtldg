@@ -1,4 +1,4 @@
-### 👀
+### 👀 (i don't like scrolling through the repo list so here's some prominent ones of mine)
 - [wrsj / SourceJump WR Menu](https://github.com/rtldg/wrsj)
 - [mpbhops but working](https://github.com/rtldg/mpbhops_but_working) (also makes func_door boosters better)
 - [sm_closestpos](https://github.com/rtldg/sm_closestpos) - C++ Sourcemod extension that can be used with bhoptimer to find the closest replay position more efficiently.
