@@ -14,3 +14,4 @@
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc https://www.youtube.com/watch?v=kViH_T5R4sQ
 - [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe)
 - [the_davinci_code](https://github.com/rtldg/the_davinci_code)
+- [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
