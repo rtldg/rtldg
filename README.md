@@ -15,3 +15,8 @@
 - [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe)
 - [the_davinci_code](https://github.com/rtldg/the_davinci_code)
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
+
+gists:
+- [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
+- [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
+- [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e) (probably not updated)
