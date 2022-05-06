@@ -12,7 +12,7 @@
 - [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
 - [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - https://www.youtube.com/watch?v=957U8koXf-8
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc https://www.youtube.com/watch?v=kViH_T5R4sQ
-- [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe)
+- [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe) - fullscreen hook is kind of broken
 - [the_davinci_code](https://github.com/rtldg/the_davinci_code)
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
 
