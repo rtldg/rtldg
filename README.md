@@ -15,6 +15,7 @@
 - [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe) - fullscreen hook is kind of broken
 - [the_davinci_code](https://github.com/rtldg/the_davinci_code)
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
+- [mpv](https://github.com/rtldg/mpv) - some mpv screenshot patches
 
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
