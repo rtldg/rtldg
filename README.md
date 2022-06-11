@@ -21,4 +21,4 @@
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
 - [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
-- [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e) (probably not updated)
+- [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e)
