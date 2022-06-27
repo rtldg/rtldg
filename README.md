@@ -17,6 +17,7 @@
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
+- [pypxie](https://github.com/rtldg/pypxie) - something that i never uploaded the code for
 
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
