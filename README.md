@@ -6,7 +6,7 @@
 - [rtldg/bhoptimer](https://github.com/rtldg/bhoptimer) -- [shavitush/bhoptimer](https://github.com/shavitush/bhoptimer)
 - [a list of things for my bhop servers](https://github.com/rtldg/bhop-server-stuff)
 - [Unreal style for shavit's bhoptimer](https://github.com/rtldg/unrealphys)
-- [wip srcwr thing](https://github.com/rtldg/srcwr)
+- ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
