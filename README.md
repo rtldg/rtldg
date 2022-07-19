@@ -16,6 +16,7 @@
 - [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe) - fullscreen hook is kind of broken
 - [the_davinci_code](https://github.com/rtldg/the_davinci_code)
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
+- [observer-mode-switch-lag-fix.sp](https://github.com/PMArkive/random-shavit-bhoptimer-stuff/blob/main/observer-mode-switch-lag-fix.sp)
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
 - [pypxie](https://github.com/rtldg/pypxie) - something that i never uploaded the code for
