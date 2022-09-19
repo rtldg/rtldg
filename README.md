@@ -19,9 +19,10 @@ tf2:
 - [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
 - [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - https://www.youtube.com/watch?v=957U8koXf-8
 
-other sourcepawn things:
+other sourcepawn/sourcemod things:
 - [smwhitelist](https://github.com/rtldg/smwhitelist) - another whitelist plugin! but rejects players sooner!
 - [observer-mode-switch-lag-fix.sp](https://github.com/PMArkive/random-shavit-bhoptimer-stuff/blob/main/observer-mode-switch-lag-fix.sp)
+- [smxappend](https://github.com/rtldg/smxappend) - rust program that creates a new file section in an smx and sourcepawn plugin to peek into an smx's file sections
 
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
