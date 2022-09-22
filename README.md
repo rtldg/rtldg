@@ -6,6 +6,7 @@ bhop:
 - [rtldg/bhoptimer](https://github.com/rtldg/bhoptimer) -- [shavitush/bhoptimer](https://github.com/shavitush/bhoptimer)
 - [a list of things for my bhop servers](https://github.com/rtldg/bhop-server-stuff)
 - [Unreal style for shavit's bhoptimer](https://github.com/rtldg/unrealphys)
+- [random bhop related scripts by various people](https://github.com/PMArkive/random-shavit-bhoptimer-stuff)
 - ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc https://www.youtube.com/watch?v=kViH_T5R4sQ
