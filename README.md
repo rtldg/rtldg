@@ -24,6 +24,7 @@ other sourcepawn/sourcemod things:
 - [smwhitelist](https://github.com/rtldg/smwhitelist) - another whitelist plugin! but rejects players sooner!
 - [observer-mode-switch-lag-fix.sp](https://github.com/PMArkive/random-shavit-bhoptimer-stuff/blob/main/observer-mode-switch-lag-fix.sp)
 - [smxappend](https://github.com/rtldg/smxappend) - rust program that creates a new file section in an smx and sourcepawn plugin to peek into an smx's file sections
+- [sm_suggest](https://github.com/rtldg/sm_suggest) - something for simple `!suggest`/`!report` logging commands (to a file & discord webhook)
 
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
