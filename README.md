@@ -33,7 +33,7 @@ everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
 - [the_davinci_code](https://github.com/rtldg/the_davinci_code)
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
-- [pypxie](https://github.com/rtldg/pypxie) - something that i never uploaded the code for
+- [pypxie](https://github.com/rtldg/pypxie)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
 
 gists:
