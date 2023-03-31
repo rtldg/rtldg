@@ -10,7 +10,7 @@ bhop:
 - ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
   - wip [srcwrtimer](https://github.com/srcwr/srcwrtimer_original)
   - wip [zones repo](https://github.com/srcwr/zones)
-  - [48k .bsp hashes](https://github.com/srcwr/maps-cstrike)
+  - [fastdl.me](https://github.com/srcwr/maps-cstrike)
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc https://www.youtube.com/watch?v=kViH_T5R4sQ
 - [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe) - fullscreen hook kind of breaks when you hit the Windows key due to win32 stuff
