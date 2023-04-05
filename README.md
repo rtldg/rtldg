@@ -42,4 +42,4 @@ gists:
 - [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
 
 
-<img align="right" src="https://asdf.bw.srcwr.com/55846624.png" alt=""/>
+<img align="right" src="https://asdf.bw.srcwr.com/test.svg" alt=""/>
