@@ -40,6 +40,3 @@ everything else:
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
 - [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
-
-
-<img align="right" src="https://asdf.bw.srcwr.com/test.svg" alt=""/>
