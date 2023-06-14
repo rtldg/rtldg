@@ -40,3 +40,5 @@ everything else:
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
 - [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
+- [purge.py](https://gist.github.com/rtldg/00a89d23d547ee39e6f4d9687911f7df) - purge old cloudflare deployments for pages & workers
+- [some recursive cname thing](https://gist.github.com/rtldg/67af56b773cb3af80fd745f93d646ff0)
