@@ -12,7 +12,7 @@ bhop:
   - wip [zones repo](https://github.com/srcwr/zones)
   - [fastdl.me](https://github.com/srcwr/maps-cstrike)
     - [sister repo](https://github.com/srcwr/maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
-    - ~~[gb scraper](https://github.com/srcwr/gamebanana-things)~~
+    - ~~[gb scraper](https://github.com/srcwr/gamebanana-things)~~ -- ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc https://www.youtube.com/watch?v=kViH_T5R4sQ
 - [rtldg/BunnyhopeAPE](https://github.com/rtldg/BunnyhopAPE) - [exe](https://github.com/rtldg/BunnyhopAPE/releases/download/1.3/BunnyhopAPE.exe) - fullscreen hook kind of breaks when you hit the Windows key due to win32 stuff
