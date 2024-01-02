@@ -34,6 +34,7 @@ everything else:
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
 - [pypxie](https://github.com/rtldg/pypxie)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
+- [fxclipboard](https://github.com/rtldg/fxclipboard) ([install](https://addons.mozilla.org/en-US/firefox/addon/fxclipboard/))- Firefox addon to rewrite `twitter.com` & `x.com` links in your clipboard to `fxtwitter.com` for easy pasting into discord
 
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
