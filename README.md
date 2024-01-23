@@ -22,12 +22,13 @@ tf2:
 - [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
 - [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - Valve matchmaking has a door-animation thing. This allows you to replicate that.
 
-other sourcepawn/sourcemod things:
+other sourcepawn/sourcemod/source-engine things:
 - [smwhitelist](https://github.com/rtldg/smwhitelist) - another whitelist plugin! but rejects players sooner!
 - [observer-mode-switch-lag-fix.sp](https://github.com/PMArkive/random-shavit-bhoptimer-stuff/blob/main/observer-mode-switch-lag-fix.sp)
 - [smxappend](https://github.com/rtldg/smxappend) - rust program that creates a new file section in an smx and sourcepawn plugin to peek into an smx's file sections
 - [sm_suggest](https://github.com/rtldg/sm_suggest) - something for simple `!suggest`/`!report` logging commands (to a file & discord webhook)
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
+- [sourcelightmap](https://github.com/rtldg/sourcelightmap) - sourcelightmap fork with right-click to quickly set the pixel to the current color
 
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
