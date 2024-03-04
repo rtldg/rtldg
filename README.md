@@ -14,7 +14,7 @@ bhop:
     - ~~[gb scraper](https://github.com/srcwr/gamebanana-things)~~ -- ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc
-- [RawInput2 + BunnyhopAPE combined](https://github.com/rtldg/RawInput2BunnyhopAPE/releases)
+- RawInput2 + BunnyhopAPE combined: [RawInput2BunnyhopAPE](https://github.com/rtldg/RawInput2BunnyhopAPE/releases)
 - [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e)
 - [goodfootsteps](https://github.com/rtldg/goodfootsteps) - (client-side custom folder) replaces all CS:S footsteps sounds with concrete footsteps
 
