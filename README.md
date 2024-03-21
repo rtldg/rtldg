@@ -32,6 +32,7 @@ other sourcepawn/sourcemod/source-engine things:
 
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
+- [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
 - [pypxie](https://github.com/rtldg/pypxie)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
