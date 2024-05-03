@@ -17,6 +17,7 @@ bhop:
 - [RawInput2BunnyhopAPE](https://github.com/rtldg/RawInput2BunnyhopAPE/releases) - RawInput2 and BunnyhopAPE combined
 - [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e)
 - [goodfootsteps](https://github.com/rtldg/goodfootsteps) - (client-side custom folder) replaces all CS:S footsteps sounds with concrete footsteps
+- [myhud](https://github.com/rtldg/myhud)
 
 tf2:
 - [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
@@ -37,6 +38,7 @@ foobar2000:
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
 - [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
+  - [mpvipc](https://github.com/rtldg/mpvipc) - fork of the mpvipc crate to add shit Windows support & some other things 
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
 - [pypxie](https://github.com/rtldg/pypxie)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
