@@ -30,6 +30,10 @@ other sourcepawn/sourcemod/source-engine things:
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
 - [sourcelightmap](https://github.com/rtldg/sourcelightmap) - sourcelightmap fork with right-click to quickly set the pixel to the current color
 
+foobar2000:
+- [foo_loop](https://github.com/rtldg/foo_loop/tree/pauser) - fork of foo_loop that lets you pause
+- [updated_nemo7538_components](https://github.com/fb2kfarm/updated_nemo7538_components) - (private) repo with x64 update for foo_quicksearch (and soon foo_plorg)
+
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
 - [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
