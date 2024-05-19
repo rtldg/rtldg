@@ -9,8 +9,8 @@ bhop:
 - ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
   - wip [srcwrtimer](https://github.com/srcwr/srcwrtimer_original)
   - wip [zones repo](https://github.com/srcwr/zones)
-  - [fastdl.me](https://github.com/srcwr/maps-cstrike)
-    - [sister repo](https://github.com/srcwr/maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
+  - [fastdl.me](https://github.com/srcwr/maps-cstrike) (maps-cstrike)
+    - [sister repo](https://github.com/srcwr/maps-cstrike-more) (maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
     - ~~[gb scraper](https://github.com/srcwr/gamebanana-things)~~ -- ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc
