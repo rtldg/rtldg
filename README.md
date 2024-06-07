@@ -2,25 +2,25 @@ bhop:
 - [wrsj / SourceJump WR Menu](https://github.com/rtldg/wrsj)
 - [mpbhops but working](https://github.com/rtldg/mpbhops_but_working) (also makes func_door boosters better)
 - [sm_closestpos](https://github.com/rtldg/sm_closestpos) - C++ Sourcemod extension that can be used with bhoptimer to find the closest replay position more efficiently.
-- [rtldg/bhoptimer](https://github.com/rtldg/bhoptimer) -- [shavitush/bhoptimer](https://github.com/shavitush/bhoptimer)
+- [rtldg/bhoptimer](https://github.com/rtldg/bhoptimer) -- ✨ [shavitush/bhoptimer](https://github.com/shavitush/bhoptimer)
 - [a list of things for my bhop servers](https://github.com/rtldg/bhop-server-stuff)
 - [Unreal style for shavit's bhoptimer](https://github.com/rtldg/unrealphys)
 - [random bhop related scripts by various people](https://github.com/PMArkive/random-shavit-bhoptimer-stuff)
 - ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
   - wip [srcwrtimer](https://github.com/srcwr/srcwrtimer_original)
   - wip [zones repo](https://github.com/srcwr/zones)
-  - [fastdl.me](https://github.com/srcwr/maps-cstrike) (maps-cstrike)
+  - ✨ [fastdl.me](https://github.com/srcwr/maps-cstrike) (maps-cstrike)
     - [sister repo](https://github.com/srcwr/maps-cstrike-more) (maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
     - ~~[gb scraper](https://github.com/srcwr/gamebanana-things)~~ -- ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc
-- [RawInput2BunnyhopAPE](https://github.com/rtldg/RawInput2BunnyhopAPE/releases) - RawInput2 and BunnyhopAPE combined
+- ✨ [RawInput2BunnyhopAPE](https://github.com/rtldg/RawInput2BunnyhopAPE/releases) - RawInput2 and BunnyhopAPE combined
 - [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e)
 - [goodfootsteps](https://github.com/rtldg/goodfootsteps) - (client-side custom folder) replaces all CS:S footsteps sounds with concrete footsteps
 - [myhud](https://github.com/rtldg/myhud)
 
 tf2:
-- [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
+- ✨ [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
 - [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - Valve matchmaking has a door-animation thing. This allows you to replicate that.
 
 other sourcepawn/sourcemod/source-engine things:
@@ -38,7 +38,7 @@ foobar2000:
 
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
-- [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
+- ✨ [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
   - [mpvipc](https://github.com/rtldg/mpvipc) - fork of the mpvipc crate to add shit Windows support & some other things 
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
 - [pypxie](https://github.com/rtldg/pypxie)
