@@ -18,6 +18,7 @@ bhop:
 - [bunnyhopape.sh](https://gist.github.com/rtldg/74435d792458ae8f4a70f321e48f586e)
 - [goodfootsteps](https://github.com/rtldg/goodfootsteps) - (client-side custom folder) replaces all CS:S footsteps sounds with concrete footsteps
 - [myhud](https://github.com/rtldg/myhud)
+- [css-demo-to-bhoptimer-replay](https://github.com/rtldg/css-demo-to-bhoptimer-replay) - maybe if you have a demo but not a bhoptimer replay and you want to turn that demo into a bhoptimer replay... buggy...
 
 tf2:
 - ✨ [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
