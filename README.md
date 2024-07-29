@@ -38,7 +38,7 @@ foobar2000:
 - [updated_nemo7538_components](https://github.com/fb2kfarm/updated_nemo7538_components) - (private) repo with x64 update for foo_quicksearch (and soon foo_plorg)
 
 everything else:
-- [mpv](https://github.com/rtldg/mpv/tree/rtldg-screenshot-other) - some mpv screenshot patches
+- [mpv](https://github.com/rtldg/mpv/tree/stuff-again) - some mpv screenshot patches
 - ✨ [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
   - [mpvipc](https://github.com/rtldg/mpvipc) - fork of the mpvipc crate to add shit Windows support & some other things 
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
