@@ -8,6 +8,7 @@ bhop:
 - [random bhop related scripts by various people](https://github.com/PMArkive/random-shavit-bhoptimer-stuff)
 - ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
   - wip [srcwrtimer](https://github.com/srcwr/srcwrtimer) ~~[srcwrtimer_original](https://github.com/srcwr/srcwrtimer_original)~~
+    - extensions included: srcwrhttp, srcwrjson, closestpos, smbz2, etc..
   - wip [zones repo](https://github.com/srcwr/zones)
   - ✨ [fastdl.me](https://github.com/srcwr/maps-cstrike) (maps-cstrike)
     - [sister repo](https://github.com/srcwr/maps-cstrike-more) (maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
