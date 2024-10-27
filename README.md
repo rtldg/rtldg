@@ -13,6 +13,7 @@ bhop:
   - ✨ [fastdl.me](https://github.com/srcwr/maps-cstrike) (maps-cstrike)
     - [sister repo](https://github.com/srcwr/maps-cstrike-more) (maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
     - [gb scraper](https://github.com/srcwr/gamebanana-things) -- ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
+    - ??? ~~[sniper](https://github.com/rtldg/sniper)~~ ~~[fastdlhax](https://github.com/rtldg/fastdlhax)~~
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc
 - ✨ [RawInput2BunnyhopAPE](https://github.com/rtldg/RawInput2BunnyhopAPE/releases) - RawInput2 and BunnyhopAPE combined
