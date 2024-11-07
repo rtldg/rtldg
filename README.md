@@ -56,6 +56,7 @@ gists:
 - [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
 - [purge.py](https://gist.github.com/rtldg/00a89d23d547ee39e6f4d9687911f7df) - purge old cloudflare deployments for pages & workers
 - [some recursive cname thing](https://gist.github.com/rtldg/67af56b773cb3af80fd745f93d646ff0)
+- [x64 Windows calling convention "shadow space" notes](https://gist.github.com/rtldg/91dd76b65748540717ed6f88d95a41b1)
 
 everything else but boring:
 - [perfsofyore](https://github.com/rtldg/perksofyore) - melonloader mod to add some stuff to Peaks of Yore (currently only the height and progress percentage to the summit)
