@@ -43,7 +43,7 @@ foobar2000:
 everything else:
 - [mpv](https://github.com/rtldg/mpv/tree/stuff-again) - some mpv screenshot patches
 - ✨ [simulcast-mpv](https://github.com/rtldg/simulcast-mpv) - program that syncs mpv players across the internet
-  - [mpvipc](https://github.com/rtldg/mpvipc) - fork of the mpvipc crate to add shit Windows support & some other things
+  - [mpvipc](https://github.com/rtldg/mpvipc) - fork of the mpvipc crate to add some things
 - [bcdl](https://github.com/rtldg/bcdl) - Downloads free/name-your-price albums from bandcamp.com
 - [tcpersist](https://github.com/rtldg/tcpersist) - wip
 - [pypxie](https://github.com/rtldg/pypxie)
