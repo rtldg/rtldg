@@ -61,7 +61,7 @@ gists:
 - [gambler.ahk](https://gist.github.com/rtldg/ca5452ca159832e2df14501d4b1773a3)
 - [purge.py](https://gist.github.com/rtldg/00a89d23d547ee39e6f4d9687911f7df) - purge old cloudflare deployments for pages & workers
 - [some recursive cname thing](https://gist.github.com/rtldg/67af56b773cb3af80fd745f93d646ff0)
-- [x64 Windows calling convention "shadow space" notes](https://gist.github.com/rtldg/91dd76b65748540717ed6f88d95a41b1)
+- [Notes so I remember how calling conventions work](https://gist.github.com/rtldg/91dd76b65748540717ed6f88d95a41b1)
 - [Steam Datagram Relay / Steam Networking FAQ](https://gist.github.com/rtldg/9e6ea7aa9b37388c119d31043b7f5189)
 
 everything else but boring:
