@@ -28,6 +28,7 @@ tf2:
 - [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - Valve matchmaking has a door-animation thing. This allows you to replicate that.
 
 other sourcepawn/sourcemod/source-engine things:
+- [linux_file_lowercase](https://github.com/rtldg/linux_file_lowercase) - sourcemod plugin to fix loading packed files on linux servers 
 - [smwhitelist](https://github.com/rtldg/smwhitelist) - another whitelist plugin! but rejects players sooner!
 - [observer-mode-switch-lag-fix.sp](https://github.com/PMArkive/random-shavit-bhoptimer-stuff/blob/main/observer-mode-switch-lag-fix.sp)
 - [smxappend](https://github.com/rtldg/smxappend) - rust program that creates a new file section in an smx and a sourcepawn plugin to peek into an smx's file sections
