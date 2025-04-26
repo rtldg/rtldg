@@ -54,6 +54,7 @@ everything else:
 - [pypxie](https://github.com/rtldg/pypxie)
 - [forksyncer](https://github.com/rtldg/forksyncer) - syncs forked repos with upstream (used by [PMArkive](https://github.com/PMArkive))
 - [fxclipboard](https://github.com/rtldg/fxclipboard) ([install](https://addons.mozilla.org/en-US/firefox/addon/fxclipboard/)) - Firefox addon to rewrite `twitter.com` & `x.com` links in your clipboard to `fxtwitter.com` for easy pasting into discord
+- [Use fonts.bunny.net everywhere](https://github.com/rtldg/use-fonts.bunny.net-everywhere) ([install](https://addons.mozilla.org/en-US/firefox/addon/use-fonts-bunny-net-everywhere/)) - Uses fonts.bunny.net everywhere instead of Google Fonts 
 - [NoLinkedinHotkey](https://github.com/rtldg/NoLinkedinHotkey) ([exe](https://github.com/rtldg/NoLinkedinHotkey/releases/download/v1/NoLinkedinHotkey.exe)) - Make the Ctrl+Shift+Win+Alt+L hotkey NOT open linkedin.com in your browser
 - [wmcdl](https://github.com/rtldg/wmcdl) - minimal endpoint for [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [hydrus_gubbins](https://github.com/rtldg/hydrus_gubbins)
