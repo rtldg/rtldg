@@ -11,9 +11,9 @@ bhop:
     - extensions included: srcwrhttp, srcwrjson, closestpos, smbz2, etc..
     - [srcwr_sample_extension](https://github.com/srcwr/srcwrtimer_sample_extension)
   - wip [zones repo](https://github.com/srcwr/zones)
-  - ✨ [fastdl.me](https://github.com/srcwr/maps-cstrike) (maps-cstrike)
-    - [sister repo](https://github.com/srcwr/maps-cstrike-more) (maps-cstrike-more) with packed BSP file-lists, entities lumps, original mapnames, and more
-    - [gb scraper](https://github.com/srcwr/gamebanana-things) -- ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
+  - ✨ [maps-cstrike](https://github.com/srcwr/maps-cstrike) (fastdl.me)
+    - [maps-cstrike-more](https://github.com/srcwr/maps-cstrike-more) - sister repo with packed BSP file-lists, entities lumps, original mapnames, and more
+    - ~~[cloudflare worker](https://github.com/srcwr/cloudflare-fastdl-worker)~~
     - ??? ~~[sniper](https://github.com/rtldg/sniper)~~ ~~[fastdlhax](https://github.com/rtldg/fastdlhax)~~
 - [some CS:S Stripper:Source map configs](https://github.com/rtldg/stripper_source_configs)
 - [edge-helper](https://github.com/rtldg/edge-helper) - helps with kz & xc
