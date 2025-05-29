@@ -6,7 +6,7 @@ bhop:
 - [a list of things for my bhop servers](https://github.com/rtldg/bhop-server-stuff)
 - [Unreal style for shavit's bhoptimer](https://github.com/rtldg/unrealphys)
 - [random bhop related scripts by various people](https://github.com/PMArkive/random-shavit-bhoptimer-stuff)
-- ~~[wip srcwr thing](https://github.com/rtldg/srcwr)~~ [wip srcwr things](https://github.com/srcwr)
+- [srcwr things](https://github.com/srcwr)
   - wip [srcwrtimer](https://github.com/srcwr/srcwrtimer) ~~[srcwrtimer_original](https://github.com/srcwr/srcwrtimer_original)~~
     - extensions included: srcwrhttp, srcwrjson, closestpos, smbz2, etc..
     - [srcwr_sample_extension](https://github.com/srcwr/srcwrtimer_sample_extension)
