@@ -58,7 +58,8 @@ everything else:
 - [NoLinkedinHotkey](https://github.com/rtldg/NoLinkedinHotkey) ([exe](https://github.com/rtldg/NoLinkedinHotkey/releases/download/v1/NoLinkedinHotkey.exe)) - Make the Ctrl+Shift+Win+Alt+L hotkey NOT open linkedin.com in your browser
 - [wmcdl](https://github.com/rtldg/wmcdl) - minimal endpoint for [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [hydrus_gubbins](https://github.com/rtldg/hydrus_gubbins)
-- [urlmonitor](https://github.com/rtldg/urlmonitor) - small url uptime monitor & discord-notifier wrapped in docker... 
+- [urlmonitor](https://github.com/rtldg/urlmonitor) - small url uptime monitor & discord-notifier wrapped in docker...
+- [signals-but-a-little-nicer](https://github.com/rtldg/signals-but-a-little-nicer) - rust crate to wrap signal handlers
 
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
