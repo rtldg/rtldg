@@ -10,6 +10,7 @@ bhop:
   - wip [srcwrtimer](https://github.com/srcwr/srcwrtimer) ~~[srcwrtimer_original](https://github.com/srcwr/srcwrtimer_original)~~
     - extensions included: srcwrhttp, srcwrjson, closestpos, smbz2, etc..
     - [srcwr_sample_extension](https://github.com/srcwr/srcwrtimer_sample_extension)
+    - [srcwr💾 ](https://github.com/srcwr/srcwrfloppy)
   - wip [zones repo](https://github.com/srcwr/zones)
   - ✨ [maps-cstrike](https://github.com/srcwr/maps-cstrike) (fastdl.me)
     - [maps-cstrike-more](https://github.com/srcwr/maps-cstrike-more) - sister repo with packed BSP file-lists, entities lumps, original mapnames, and more
