@@ -27,7 +27,7 @@ bhop:
 
 tf2:
 - ✨ [tf2centerprojectiles](https://github.com/rtldg/tf2centerprojectiles) - Provides the command sm_centerprojectiles [0|1] to shoot most projectiles from the center.
-- [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - Valve matchmaking has a door-animation thing. This allows you to replicate that.
+- [tf2-dooranimation](https://github.com/rtldg/tf2-dooranimation) - Valve matchmaking has a door-animation thing. This allows you to replicate that. (also check out this fork instead https://github.com/Heapons/tf2-dooranimation)
 
 other sourcepawn/sourcemod/source-engine things:
 - [linux_file_lowercaser](https://github.com/rtldg/linux_file_lowercaser) - sourcemod plugin to fix loading packed files on linux servers 
