@@ -37,7 +37,6 @@ other sourcepawn/sourcemod/source-engine things:
 - [sm_suggest](https://github.com/rtldg/sm_suggest) - something for simple `!suggest`/`!report` logging commands (to a file & discord webhook)
 - [64tick_nades](https://github.com/rtldg/64tick_nades) - 64tick csgo nade lineups on 128tick servers
 - [sourcelightmap](https://github.com/rtldg/sourcelightmap) - sourcelightmap fork with right-click to quickly set the pixel to the current color
-- [PushFixDE](https://github.com/rtldg/PushFixDE) - fork that adds CS:S gamedata for testing but it doesn't actually matter or help much so ignore it
 - [brainfuck.sp](https://gist.github.com/rtldg/2a27e8a744d0927f1202e0f9da5a7010) - brainfuck interpreter
 - [steam-master-server-implementation](https://github.com/rtldg/steam-master-server-implementation) - untested master server implementation
 
