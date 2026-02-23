@@ -61,6 +61,7 @@ everything else:
 - [urlmonitor](https://github.com/rtldg/urlmonitor) - small url uptime monitor & discord-notifier wrapped in docker...
 - [signals-but-a-little-nicer](https://github.com/rtldg/signals-but-a-little-nicer) - rust crate to wrap signal handlers
 - [rehosted](https://github.com/rtldg/rehosted) - some links died so I put them here
+- [matrix-fx-bot](https://github.com/rtldg/matrix-fx-bot)
 
 gists:
 - [hidden-cursor-sens.cpp](https://gist.github.com/rtldg/e002065e003cb45409ea34e64ddcdb6d)
